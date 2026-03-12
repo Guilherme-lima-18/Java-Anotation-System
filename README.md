@@ -1,5 +1,7 @@
 # Task Manager in Java
 
+This project is managed using **Git** and hosted on **GitHub**.
+
 ## About the Project
 
 This project is a simple task manager developed in Java with the purpose of practicing fundamental programming concepts and object-oriented programming.
